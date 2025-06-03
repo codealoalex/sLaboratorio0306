@@ -10,4 +10,4 @@ Los colores son orange, violet y green.
 En caso de no poder encontrar o añadir imagenes, use el atributo alt para describir la imagen, como está en la página web de referencia.
 ## Hiperenlaces
 El hiperenlace es el que tiene como texto VER COMO PREPARAR SAJTA. Tiene un tamaño de 4 y la fuente es sans-serif. Debe tomar en cuenta que el color del hiperenlace es rojo, y eso se añade con el atributo vlink en el body.
-
+El enlace debe abrirse en una pestaña distinta y puede enviar a cualquier video de youtube acerca de como preparar Sajta o puede usar este enlace: https://youtu.be/qqTNmRpe79o?si=LSWRgcw5N_7XVALE
